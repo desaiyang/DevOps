@@ -1,0 +1,9 @@
+variable "region" {}
+variable "access_key" {}
+variable "secret_key" {}
+variable "ami" {}
+variable "instance_type" {}
+variable "dev_instance" {}
+variable "qa_instance" {}
+variable "uat_instance" {}
+variable "prod_instance" {}
