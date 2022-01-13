@@ -1,0 +1,3 @@
+Learn simple to complicated powershell commands starting from your local computer to the cloud ... 
+
+Azure uses powershell to provision resources in the Azure Cloud ..
